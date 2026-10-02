@@ -1,0 +1,27 @@
+SITE WOWDOG PET CENTER
+
+Como abrir
+  - VS Code: abra esta pasta (Arquivo > Abrir Pasta), clique com o botão
+    direito em index.html > "Open with Live Server".
+  - Ou dê dois cliques em index.html.
+
+O que editar
+  1. js/config.js        -> coloque o número do WhatsApp (obrigatório)
+  2. index.html          -> procure por "[Inserir" e troque endereço e horário
+  3. css/style.css       -> cores no topo do arquivo (bloco :root)
+
+Pastas
+  index.html
+  css/style.css          estilos
+  js/config.js           número do WhatsApp
+  js/main.js             botões e formulário
+  assets/img/            logo e favicon
+
+Cores da marca
+  Ciano  #06DCDC
+  Roxo   #67228A
+  Cinza  #878787
+
+Regras da logo (manual de marca)
+  Não achatar, não rotacionar, não inverter cores, não trocar fonte,
+  não trocar posições e não usar fundos que escondam a logo.
